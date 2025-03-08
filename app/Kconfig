@@ -8,7 +8,7 @@ menu "ZMK"
 menu "Basic Keyboard Setup"
 
 config ZMK_KEYBOARD_NAME
-    string "Crouch58s"
+    string "Keyboard Name"
 
 config USB_DEVICE_PRODUCT
     default ZMK_KEYBOARD_NAME
